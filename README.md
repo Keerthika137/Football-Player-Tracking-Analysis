@@ -20,10 +20,11 @@ Football Player Tracking and Analysis is a computer vision project using Python,
 - Analytics dashboard with graphs
 
 ## Project Files
-- `.ipynb` — Google Colab notebook containing the project code
-- `player_tracking_data.csv` — Detailed tracking records
-- `player_tracking_summary.csv` — Summary of tracking analysis
-- `football_analytics_dashboard.png` — Analytics dashboard
+
+- `Football_Player_Tracking_Analysis (1).ipynb` — Google Colab notebook containing the project code
+- `player_tracking_data (1).csv` — Detailed tracking records
+- `player_tracking_summary.csv` — Summary of tracking IDs and estimated speeds
+- `football_analytics_dashboard (2).png` — Analytics dashboard with graphs
 
 ## Analytics Dashboard
 
