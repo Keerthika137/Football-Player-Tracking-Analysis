@@ -49,9 +49,9 @@ The main objective of this project is to detect and track players in a football 
 
 ## 🎥 Tracked Football Video
 
-The processed video demonstrates football player detection and tracking using YOLO and OpenCV.
+Watch or download the processed football video showing player detection, bounding boxes, and tracking IDs.
 
-[▶️ Click here to view or download the tracked football video](./football_tracked.mp4)
+[▶️ Open Football Tracking Video](https://github.com/Keerthika137/Football-Player-Tracking-Analysis/raw/48e4314f42c556ac89da60a4f3534d28d8f0337d/football_tracked.mp4)
 
 ## Analytics Dashboard
 
