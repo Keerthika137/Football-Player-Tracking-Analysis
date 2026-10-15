@@ -26,6 +26,12 @@ Football Player Tracking and Analysis is a computer vision project using Python,
 - `player_tracking_summary.csv` — Summary of tracking IDs and estimated speeds
 - `football_analytics_dashboard (2).png` — Analytics dashboard with graphs
 
+## 🎥 Tracked Football Video
+
+The processed football video demonstrates player detection and tracking using YOLO and OpenCV. Bounding boxes and tracking IDs are displayed on detected players throughout the video.
+
+**Output file:** `football_tracked.mp4`
+
 ## Analytics Dashboard
 
 ![Football Analytics Dashboard](<football_analytics_dashboard (2).png>)
