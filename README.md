@@ -27,7 +27,7 @@ Football Player Tracking and Analysis is a computer vision project using Python,
 
 ## Analytics Dashboard
 
-![Football Analytics Dashboard](football_analytics_dashboard.png)
+![Football Analytics Dashboard](./football_analytics_dashboard.png)
 
 ## Future Improvements
 - Football detection and tracking
